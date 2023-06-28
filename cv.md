@@ -24,7 +24,7 @@ I like to learn something new, honest and responsible person.
 - Figma (for web development, basic)
 - JavaScript (trying to learn)
 
-### Code
+### Code example
 
 ```
 function sum(a, b) {
