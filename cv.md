@@ -26,19 +26,20 @@ I like to learn something new, honest and responsible person.
 
 ### Code
 
-'''
+```
 function sum(a, b) {
   return a + b;
 }
 
 let result = sum(1, 2);
 alert( result );
-'''
+
+```
 
 ### English
 ---
 
-- English - Advanced [(according to the online test at )](https://https://www.efset.org/quick-check/)
+- English - Advanced [(according to the online test at EF)](https://https://www.efset.org/quick-check/)
 - Russian and Tatarian - native
 - French and Korean - can read 
 
